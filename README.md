@@ -4,7 +4,7 @@ Browse awesome cooking recipes or share your own!
 
 This is my fullstack application which includes user authorization and CRUD operations on recipes.
 
-Technologies used
+#Technologies used
 React
 Node.js
 Express
@@ -13,7 +13,7 @@ Cloudinary
 Redux-Toolkit
 Tailwind
 
-Features
+#Features
 Authentication
 CRUD operations on recipes
 Adding likes and comments
@@ -24,7 +24,7 @@ Browsing by favourites, tags and types of cuisines
 User profiles with user's activity statistics and listed recipes added by this user
 
 
-Lessons Learned
+#Lessons Learned
 State management with Redux-Toolkit
 Animating with Framer Motion
 Form validation with Formik and Yup
