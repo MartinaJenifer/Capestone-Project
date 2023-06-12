@@ -5,13 +5,19 @@ Browse awesome cooking recipes or share your own!
 This is my fullstack application which includes user authorization and CRUD operations on recipes.
 
 #Technologies used
+
 React
+
 Node.js
+
 Express
+
 MongoDB
+
 Cloudinary
+
 Redux-Toolkit
-Tailwind
+
 
 #Features
 Authentication
